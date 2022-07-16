@@ -25,7 +25,7 @@ $ export org_id=123456789
 ```
 ## Implementation
 
-### Run script to enable all services at the organization,folder,and projects layers
+### Run script to find exempt identities in the organization,folder,and projects layers
 ```
 $ ./find_exempt_identity.sh
 
